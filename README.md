@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dxur11rb43ovvqt7?svg=true)](https://ci.appveyor.com/project/svetlanarykova/patterns-dz-2-3-1)
